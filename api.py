@@ -1,6 +1,6 @@
 #!/usr/bin/python
 from flask import Flask, jsonify
-from sklearn.externals import joblib, 
+from sklearn.externals import joblib 
 import pandas as pd
 import os
 
